@@ -34,7 +34,7 @@ $('li:odd')
 
 $('div:visible')
 
-$('a[rel$="thinger"]')
+$('a[ref$="thinger"]')
 /*
 <a ref='do-nothinger'></a>
 <a ref='so-thinger'></a>
