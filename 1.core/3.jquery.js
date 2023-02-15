@@ -34,10 +34,10 @@ $('li:odd')
 
 $('div:visible')
 
-$('a[ref$="thinger"]')
+$('a[rel$="thinger"]')
 /*
-<a ref='do-nothinger'></a>
-<a ref='so-thinger'></a>
+<a rel='do-nothinger'></a>
+<a rel='so-thinger'></a>
 */
 
 $('div.foo').has('p')
